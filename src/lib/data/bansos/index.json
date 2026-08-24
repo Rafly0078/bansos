@@ -1,6 +1,6 @@
 {
 	"generatedAt": "2026-08-17",
-	"total": 104,
+	"total": 105,
 	"items": [
 		{
 			"id": "adobe-creative-cloud-pro-trial",
@@ -878,6 +878,16 @@
 			"featured": false,
 			"publishedAt": "2026-07-16",
 			"contributorSlug": "syafii-fahreza"
+		},
+		{
+			"id": "tokenforge-free-beta",
+			"title": "TokenForge Free Beta - 100 Request/Hari + Akses GLM-5.2 & Grok 4.5",
+			"provider": "TokenForge",
+			"status": "active",
+			"tags": ["AI Credits", "API", "AI Tools", "Free Tier", "Developer Tools"],
+			"featured": false,
+			"publishedAt": "2026-08-24",
+			"contributorSlug": "rafly0078"
 		},
 		{
 			"id": "tokengo-inference-api",
