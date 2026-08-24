@@ -1,6 +1,6 @@
 {
 	"generatedAt": "2026-08-17",
-	"total": 105,
+	"total": 106,
 	"items": [
 		{
 			"id": "adobe-creative-cloud-pro-trial",
@@ -589,6 +589,16 @@
 			"featured": false,
 			"publishedAt": "2026-06-12",
 			"contributorSlug": "devers"
+		},
+		{
+			"id": "liminality-free-checkin",
+			"title": "Liminality API - Checkin Harian Gratis + Model Gratis (Claude Fable 5, Kimi K3, Mimo v2.5)",
+			"provider": "Liminality",
+			"status": "active",
+			"tags": ["AI Credits", "API", "AI Tools", "Free Tier", "Developer Tools"],
+			"featured": false,
+			"publishedAt": "2026-08-24",
+			"contributorSlug": "rafly0078"
 		},
 		{
 			"id": "lovable-free-pro-plan",
