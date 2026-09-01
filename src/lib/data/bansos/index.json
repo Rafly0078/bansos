@@ -1,6 +1,6 @@
 {
 	"generatedAt": "2026-08-17",
-	"total": 109,
+	"total": 110,
 	"items": [
 		{
 			"id": "adobe-creative-cloud-pro-trial",
@@ -758,6 +758,16 @@
 			"featured": false,
 			"publishedAt": "2026-06-27",
 			"contributorSlug": "noblehost"
+		},
+		{
+			"id": "nofx-free-api-points",
+			"title": "NOFX - Gratis API Points untuk Claude/GPT/Gemini via Check-in Harian + Task",
+			"provider": "NOFX",
+			"status": "active",
+			"tags": ["AI Credits", "API", "AI Tools", "Free Tier", "Developer Tools", "No Credit Card"],
+			"featured": false,
+			"publishedAt": "2026-09-01",
+			"contributorSlug": "rafly0078"
 		},
 		{
 			"id": "notion-ai-unlimited-1-bulan",
