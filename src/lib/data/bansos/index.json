@@ -1,6 +1,6 @@
 {
 	"generatedAt": "2026-08-17",
-	"total": 106,
+	"total": 108,
 	"items": [
 		{
 			"id": "adobe-creative-cloud-pro-trial",
@@ -371,6 +371,16 @@
 			"contributorSlug": "akbar"
 		},
 		{
+			"id": "google-gemini-student",
+			"title": "Google Gemini Paket Mahasiswa 1 Tahun Tanpa Biaya",
+			"provider": "Google",
+			"status": "active",
+			"tags": ["AI", "Cloud Services", "Gratisan", "Mahasiswa"],
+			"featured": false,
+			"publishedAt": "2026-08-22",
+			"contributorSlug": "rifaldo-dev"
+		},
+		{
 			"id": "google-startups-cloud",
 			"title": "Program Google for Startups Cloud",
 			"provider": "Google Cloud",
@@ -592,7 +602,7 @@
 		},
 		{
 			"id": "liminality-free-checkin",
-			"title": "Liminality API - Checkin Harian Gratis + Model Gratis (Claude Fable 5, Kimi K3, Mimo v2.5)",
+			"title": "Liminality API - Check-in Harian Gratis dan Akses API OpenAI-Compatible",
 			"provider": "Liminality",
 			"status": "active",
 			"tags": ["AI Credits", "API", "AI Tools", "Free Tier", "Developer Tools"],
@@ -891,7 +901,7 @@
 		},
 		{
 			"id": "tokenforge-free-beta",
-			"title": "TokenForge Free Beta - 100 Request/Hari + Akses GLM-5.2 & Grok 4.5",
+			"title": "TokenForge Free Beta - Kredit Promosi dan Akses GLM-5.2 & Grok 4.5",
 			"provider": "TokenForge",
 			"status": "active",
 			"tags": ["AI Credits", "API", "AI Tools", "Free Tier", "Developer Tools"],
@@ -988,6 +998,16 @@
 			"featured": false,
 			"publishedAt": "2026-08-02",
 			"contributorSlug": "syafii-fahreza"
+		},
+		{
+			"id": "wasmer-pro",
+			"title": "Wasmer Pro 3 Bulan Tanpa Kartu Kredit",
+			"provider": "Wasmer",
+			"status": "active",
+			"tags": ["Cloud Services", "Hosting", "Gratisan"],
+			"featured": false,
+			"publishedAt": "2026-08-22",
+			"contributorSlug": "rifaldo-dev"
 		},
 		{
 			"id": "xai-grok-api-credits",
