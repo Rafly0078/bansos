@@ -1,0 +1,33 @@
+{
+	"id": "nova-vcrauo-free-1u",
+	"title": "Orbelis (nova.vcrauo.com) - Referral $1 Dua Arah + Trial 10U/Minggu, Syarat Akun GitHub 1 Tahun+",
+	"provider": "Orbelis",
+	"description": "Orbelis (nova.vcrauo.com) adalah relay API AI bergaya New API yang menyediakan model flagship GPT-6, Grok, DeepSeek, Qwen, Kimi, dan GLM dengan kuota berdenominasi USD. Registrasi terbuka lewat tiga jalur saja: GitHub OAuth (akun minimal berumur 1 tahun), email QQ, atau LinuxDo. Pendaftaran lewat link referral memberi kedua belah pihak $1 kredit, dan setiap akun bisa klaim satu kartu trial 10U untuk seminggu di grup QQ/TG/DC resmi (khusus grup trial). Situs juga punya grup gpt-free yang selalu terbuka tanpa perlu saldo, grup gratis NVIDIA, check-in harian, serta undian recharge berbentuk piringan putar. Kuota ditampilkan dalam USD, dengan beberapa rute: nova.vcrauo.com (Washington, blokir region CN/HK/MO/TW) dan api.vcrauo.lat (direct tanpa proxy). Anti-abuse aktif: Turnstile captcha, verifikasi email, dan peringatan keras terhadap self-invite via IP + browser fingerprint + review manual.",
+	"benefits": [
+		"Register via link referral AFF → kedua pihak dapat $1 kredit",
+		"Klaim 1x kartu trial 10U untuk 7 hari di grup QQ/TG/DC resmi (khusus trial group)",
+		"Grup gpt-free selalu terbuka tanpa saldo (berlaku sampai akun free diblokir OpenAI)",
+		"Grup model gratis NVIDIA + grup gratis model domestik (DeepSeek/Qwen/Kimi/GLM)",
+		"Check-in harian aktif",
+		"Rebate referral 5% untuk 20 transaksi topup pertama tiap orang yang kamu undang (bisa ditarik atau dipindah ke saldo)"
+	],
+	"validity": {
+		"type": "uncertain",
+		"description": "Tidak ada tanggal akhir resmi; pengumuman resmi menyatakan semua promo dan kuota dapat berubah sewaktu-waktu"
+	},
+	"requirements": [
+		"Wajib login GitHub OAuth dengan akun berumur minimal 1 tahun (atau email QQ / LinuxDo)",
+		"Turnstile captcha saat register",
+		"Verifikasi email aktif",
+		"Region CN/HK/MO/TW diblokir — pakai rute api.vcrauo.lat untuk direct, atau proxy dengan exit IP di luar region tersebut",
+		"Jangan self-invite: platform punya deteksi IP + browser fingerprint + device fingerprint + review manual admin",
+		"Luna model tidak tersedia di semua grup"
+	],
+	"ctaLink": "https://nova.vcrauo.com/sign-up?aff=9kCP",
+	"tags": ["AI Credits", "API", "AI Tools", "Free Tier", "Developer Tools", "No Credit Card"],
+	"status": "active",
+	"featured": false,
+	"publishedAt": "2026-09-13",
+	"source": "https://nova.vcrauo.com",
+	"contributorSlug": "rafly0078"
+}

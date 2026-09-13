@@ -1,6 +1,6 @@
 {
 	"generatedAt": "2026-08-17",
-	"total": 110,
+	"total": 111,
 	"items": [
 		{
 			"id": "adobe-creative-cloud-pro-trial",
@@ -778,6 +778,16 @@
 			"featured": false,
 			"publishedAt": "2026-06-15",
 			"contributorSlug": "rizkysiregar23"
+		},
+		{
+			"id": "nova-vcrauo-free-1u",
+			"title": "Orbelis (nova.vcrauo.com) - Free $1 Credit + Trial 10U untuk Akun GitHub 1 Tahun+",
+			"provider": "Orbelis",
+			"status": "active",
+			"tags": ["AI Credits", "API", "AI Tools", "Free Tier", "Developer Tools", "No Credit Card"],
+			"featured": false,
+			"publishedAt": "2026-09-13",
+			"contributorSlug": "rafly0078"
 		},
 		{
 			"id": "opencode-go-free-5-credit",
