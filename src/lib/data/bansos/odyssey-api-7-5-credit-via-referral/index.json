@@ -1,0 +1,29 @@
+{
+	"id": "odyssey-api-7-5-credit-via-referral",
+	"title": "Odyssey API $7.5 Credit via Referral",
+	"provider": "Odyssey",
+	"description": "Odyssey adalah gateway API tunggal yang menyatukan model frontier seperti Claude, GPT, dan Gemini dengan kompatibilitas OpenAI dan Anthropic. Akun baru dapat $2.5 kredit + tambahan $5 melalui kode undangan ini, total kredit mencapai $7.5 untuk bereksperimen dengan berbagai model LLM.",
+	"benefits": [
+		"Total $7.5 kredit API gratis untuk akun baru ($2.5 default + $5 tambahan dengan kode undangan ini)",
+		"Satu gateway API untuk Claude, GPT, Gemini, dan model frontier lainnya",
+		"Kompatibel dengan format OpenAI v1/chat/completions dan Anthropic",
+		"Pay-as-you-go, bayar hanya model yang dipanggil",
+		"Harga sama untuk semua akun, tanpa markup",
+		"API key langsung dari dashboard Odyssey"
+	],
+	"validity": {
+		"type": "forever"
+	},
+	"requirements": [
+		"Daftar akun baru melalui https://odysseyapi.tech/invite/63BHQWJ3",
+		"Verifikasi email untuk mengaktifkan kredit",
+		"Buat API key di dashboard, arahkan ke endpoint Odyssey format OpenAI/Anthropic",
+		"Kredit tidak kadaluarsa selamanya"
+	],
+	"ctaLink": "https://odysseyapi.tech/invite/63BHQWJ3",
+	"tags": ["AI Credits", "API", "LLM", "Referral"],
+	"status": "active",
+	"featured": false,
+	"publishedAt": "2026-09-15",
+	"contributorSlug": "rafly0078"
+}
