@@ -20,7 +20,7 @@
 		"Email pendaftaran wajib domain gmail.com atau qq.com karena whitelist domain aktif, dan wajib verifikasi email",
 		"Login hanya lewat email dan password: tidak ada opsi GitHub, LinuxDo, Telegram, Discord, atau passkey",
 		"Dilarang memakai relay untuk jailbreak (破限/破甲) atau konten NSFW karena operator memantau realtime dan akun yang diblokir saldonya tidak dikembalikan",
-		"Operator menyatakan platform ini testbed internal tanpa SLA: semua request dicatat (IP, sidik perangkat, isi), API key dilarang dibagikan, disewakan, atau dijual",
+		"Operator menyatakan platform ini testbed internal tanpa SLA; API key dilarang dibagikan, disewakan, atau dijual",
 		"Saldo situs galeri gambar (fast.qianxing.us.ci) terpisah dan tidak nyambung dengan saldo relay utama",
 		"Antarmuka, pengumuman, dan grup dukungan berbahasa Mandarin, dan dokumentasi Feishu-nya tidak bisa diakses publik saat dicek"
 	],
@@ -29,6 +29,6 @@
 	"status": "active",
 	"featured": false,
 	"publishedAt": "2026-09-19",
-	"source": "https://www.qianxing-ai.cc.cd/",
+	"source": "https://fast.qianxing.pro/",
 	"contributorSlug": "rafly0078"
 }
