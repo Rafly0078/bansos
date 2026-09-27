@@ -1,6 +1,6 @@
 {
-	"generatedAt": "2026-09-15",
-	"total": 117,
+	"generatedAt": "2026-09-27",
+	"total": 118,
 	"items": [
 		{
 			"id": "1412-api-github-registration",
@@ -431,16 +431,6 @@
 			"contributorSlug": "rafly0078"
 		},
 		{
-			"id": "gumloop-free-credits",
-			"title": "Gratis 6,6 Ribu Kredit Agen AI di Gumloop (Tersedia Model Populer)",
-			"provider": "Gumloop",
-			"status": "active",
-			"tags": ["AI", "AI Credits", "Gratisan"],
-			"featured": false,
-			"publishedAt": "2026-06-20",
-			"contributorSlug": "brian"
-		},
-		{
 			"id": "gurouter-free-credit-model-gratis",
 			"title": "GuRouter Free $0.2 Credit + Model Gratis $0",
 			"provider": "GuRouter",
@@ -449,6 +439,16 @@
 			"featured": false,
 			"publishedAt": "2026-09-19",
 			"contributorSlug": "rafly0078"
+		},
+		{
+			"id": "gumloop-free-credits",
+			"title": "Gratis 6,6 Ribu Kredit Agen AI di Gumloop (Tersedia Model Populer)",
+			"provider": "Gumloop",
+			"status": "active",
+			"tags": ["AI", "AI Credits", "Gratisan"],
+			"featured": false,
+			"publishedAt": "2026-06-20",
+			"contributorSlug": "brian"
 		},
 		{
 			"id": "hcnsec-free-30k-api-credit",
@@ -838,6 +838,16 @@
 			"featured": false,
 			"publishedAt": "2026-06-15",
 			"contributorSlug": "rizkysiregar23"
+		},
+		{
+			"id": "odyssey-api-5-signup-credit",
+			"title": "Kredit API Gratis $5 Saat Daftar di Odyssey",
+			"provider": "Odyssey",
+			"status": "active",
+			"tags": ["AI Credits", "API", "LLM"],
+			"featured": false,
+			"publishedAt": "2026-09-15",
+			"contributorSlug": "rafly0078"
 		},
 		{
 			"id": "opencode-go-free-5-credit",
