@@ -31,7 +31,7 @@ FlushAPI adalah layanan agregator API LLM pihak ketiga; ketersediaan model dan b
 [🔗 Klaim Bansos Ini](https://flushapi.fun/sign-up?aff=Jk7F)
 
 
-🏷️ Tags: AI Credits · API · AI Tools · Free Tier · Developer Tools
+🏷️ Tags: AI Credits · API · AI Tools · Free Tier · Developer Tools · Referral
 
 ✏️ Dikontribusikan oleh `rafly0078`
 
