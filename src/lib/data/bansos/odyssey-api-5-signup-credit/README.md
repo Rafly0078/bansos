@@ -15,7 +15,10 @@ Odyssey menyediakan kredit API senilai $5 untuk pengguna baru yang mendaftar. Ha
 ## Persyaratan
 
 - Buat akun Odyssey baru
+- Kredit promosi dibatasi satu akun per jaringan; jangan membuat akun tambahan untuk memperoleh kredit sign-up lagi
 - Periksa ketentuan penawaran yang berlaku saat pendaftaran
+
+Lihat [ketentuan Odyssey](https://odysseyapi.tech/terms) untuk batasan kredit promosi.
 
 ---
 
