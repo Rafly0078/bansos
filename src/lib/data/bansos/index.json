@@ -1,6 +1,6 @@
 {
 	"generatedAt": "2026-10-12",
-	"total": 127,
+	"total": 128,
 	"items": [
 		{
 			"id": "1412-api-github-registration",
@@ -829,6 +829,16 @@
 			"featured": false,
 			"publishedAt": "2026-06-13",
 			"contributorSlug": "devers"
+		},
+		{
+			"id": "moyuu-api-relay",
+			"title": "Moyuu Relay API Multi-Model Murah",
+			"provider": "Moyuu",
+			"status": "active",
+			"tags": ["AI Credits", "API", "AI Tools", "Developer Tools"],
+			"featured": false,
+			"publishedAt": "2026-10-25",
+			"contributorSlug": "rafly0078"
 		},
 		{
 			"id": "namecheap-hosting-trial",
