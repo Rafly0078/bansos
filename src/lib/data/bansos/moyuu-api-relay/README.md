@@ -2,7 +2,7 @@
 
 **Provider:** Moyuu
 
-Moyuu adalah relay API OpenAI-compatible yang mengagregasi 60+ model dari berbagai vendor (OpenAI, Claude, DeepSeek, Gemini, Grok, dan lainnya) dengan beberapa grup harga diskon besar — grup moyuu_codex berbiaya 0.1x harga resmi, grup go 0.1-0.3x, dan model grok berbiaya kurang dari 1 sen per panggilan. Pendaftaran terbuka via email (verifikasi wajib), GitHub, Google, atau LinuxDO, dilindungi Cloudflare Turnstile. Tidak ada bonus saldo otomatis saat daftar (program itu dihentikan Juni 2026 karena penyalahgunaan), tetapi pemilik akun bisa mendapat komisi referral 3% dari setiap deposit pengguna yang diundang. Katalog model, harga per grup, dan status kanal bisa dicek publik di halaman pricing tanpa login.
+Moyuu adalah relay API OpenAI-compatible yang mengagregasi 60+ model dari berbagai vendor (OpenAI, Claude, DeepSeek, Gemini, Grok, dan lainnya) dengan beberapa grup harga. Biaya pemakaian bergantung pada model dan grup yang dipilih; cek tarif terkini di halaman pricing sebelum top-up. Pendaftaran terbuka via email (verifikasi wajib), GitHub, Google, atau LinuxDO, dilindungi Cloudflare Turnstile. Tidak ada bonus saldo otomatis saat daftar (program itu dihentikan Juni 2026 karena penyalahgunaan), tetapi pemilik akun bisa mendapat komisi referral 3% dari setiap deposit pengguna yang diundang. Katalog model, harga per grup, dan status kanal bisa dicek publik di halaman pricing tanpa login.
 
 > **Status:** Aktif
 
@@ -11,7 +11,7 @@ Moyuu adalah relay API OpenAI-compatible yang mengagregasi 60+ model dari berbag
 ## Keuntungan
 
 - Akses 60+ model AI (GPT, Claude, DeepSeek, Gemini, Grok) lewat satu API OpenAI-compatible
-- Grup harga diskon: moyuu_codex 0.1x, go 0.1-0.3x, grok sangat murah
+- Pilihan grup harga untuk berbagai model; multiplier dan tarif terkini tersedia di halaman pricing
 - Katalog model + harga transparan dan bisa dicek publik tanpa login
 - Komisi referral 3% dari deposit pengguna yang diundang
 - Registrasi via email, GitHub, Google, atau LinuxDO
@@ -20,7 +20,7 @@ Moyuu adalah relay API OpenAI-compatible yang mengagregasi 60+ model dari berbag
 
 - Akun email terverifikasi atau akun GitHub/Google/LinuxDO
 - Lolos verifikasi Cloudflare Turnstile saat registrasi
-- Saldo diisi via top-up (harga 1:1 USD) sebelum memakai sebagian besar model
+- Isi saldo melalui top-up sebelum memakai model berbayar; periksa mata uang pembayaran dan konversi kredit di dashboard sebelum membayar
 
 ---
 
